@@ -1,7 +1,7 @@
 # Chess
 
 This is a simple chess game that shows with dedication and the right assistance Engineers can do ANYTHING in the world
-what a beautiful experience, thank you group 12 for the insane group chemistry and unparralled willingness to do more 
+what a beautiful experience, thank you group 11 for the insane group chemistry and unparralled willingness to do more 
 
 This project was made by
 IKETUNDE IFEOLUWA ADEBAYO 2022/11372
@@ -11,7 +11,7 @@ Ezekwesirim faith chioma 2022/11810
 
 
 ## About the Project 
-This is a chess game made by group12 300 level electrical electronics enginnering students of bells university under the supervision of our highly esteemed lecturer engineer Mohammed off New Horizons
+This is a chess game made by group 11 300 level electrical electronics enginnering students of bells university under the supervision of our highly esteemed lecturer engineer Mohammed off New Horizons
 
 we give all Glory to God for the succesful completion of this project
 
